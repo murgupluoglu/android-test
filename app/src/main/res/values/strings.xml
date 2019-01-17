@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidx-test-kotlin</string>
+    <string name="missing_email">Email cannot be empty</string>
+    <string name="missing_password">Password cannot be empty</string>
+</resources>
